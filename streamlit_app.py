@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("_Streamlit_ is :blue[cool] :tree:")
+st.title("_Streamlit_ is :blue[cool] :train:")
